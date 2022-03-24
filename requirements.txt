@@ -1,0 +1,5 @@
+requests>=2.27.1
+pypokedex>=1.6.0
+loguru>=0.5.3
+rich>=10.11.0
+lolcat>=1.4
